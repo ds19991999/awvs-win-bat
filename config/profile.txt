@@ -1,0 +1,17 @@
+ws_default
+XSS
+Web_Applications
+Weak_Passwords
+Text_Search
+Sql_Injection
+Blind_SQL_Injection
+Parameter_Manipulation
+Network_Scripts
+High_Risk_Alerts
+GHDB
+File_Upload
+Empty
+Directory_And_File_Checks
+Default
+CSRF
+AcuSensor
